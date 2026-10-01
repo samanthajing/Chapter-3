@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Convert_II {
+public class ConvertTime {
 	
 	public static void main(String[] args) {
 		
